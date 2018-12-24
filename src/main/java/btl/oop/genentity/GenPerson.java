@@ -13,7 +13,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Anh Phuong
  */
 public class GenPerson extends GenEntity{
     private static ArrayList<String> listJob;

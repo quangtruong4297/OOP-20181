@@ -11,8 +11,6 @@ import static btl.oop.readfile.ReadFile.readFile;
 import java.util.ArrayList;
 
 /**
- *
- * @author Nguyen Anh Phuong
  */
 public class GenOrganization extends GenEntity{
     private static ArrayList<String> listHeadOffice;

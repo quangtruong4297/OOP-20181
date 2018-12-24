@@ -13,7 +13,6 @@ import java.util.Random;
 
 /**
  *
- * @author Nguyen Anh Phuong
  */
 public abstract class GenEntity {
     protected static ArrayList<String> listID;

@@ -12,7 +12,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Anh Phuong
  */
 public class GenEvent extends GenEntity {
     

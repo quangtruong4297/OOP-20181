@@ -12,7 +12,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Anh Phuong
  */
 public class GenCountry extends GenEntity {
     private static ArrayList<String> listContinent;

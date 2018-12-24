@@ -12,7 +12,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Anh Phuong
  */
 public class GenLocation extends GenEntity {
      public ArrayList<Location> genLocation(int amount){

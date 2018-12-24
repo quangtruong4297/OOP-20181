@@ -10,7 +10,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Anh Phuong
  */
 
 
